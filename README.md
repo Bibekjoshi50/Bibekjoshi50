@@ -1,3 +1,4 @@
+![logo](https://github.com/Bibekjoshi50/Bibekjoshi50/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Bibek Joshi</h1>
 <h3 align="center">A passionate frontend developer from from Nepal</h3>
 
