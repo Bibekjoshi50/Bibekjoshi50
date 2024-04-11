@@ -1,6 +1,6 @@
 ![logo](https://github.com/Bibekjoshi50/Bibekjoshi50/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Bibek Joshi</h1>
-<h3 align="center">A passionate frontend developer from from Nepal</h3>
+<h3 align="center">A passionate frontend developer from  Nepal</h3>
 
 <img align="right"alt="coding"width="400"src="![image](https://github.com/Bibekjoshi50/Bibekjoshi50/assets/152896983/309e1ad7-7eb9-4b38-bba4-9aa3f37e803e)
 >
