@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bibek Joshi</h1>
 <h3 align="center">A passionate frontend developer from  Nepal</h3>
 
-<img align="right"alt="coding"width="400"src="![image](https://github.com/Bibekjoshi50/Bibekjoshi50/assets/152896983/309e1ad7-7eb9-4b38-bba4-9aa3f37e803e)
+[image](https://github.com/Bibekjoshi50/Bibekjoshi50/assets/152896983/309e1ad7-7eb9-4b38-bba4-9aa3f37e803e)
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekjoshi50&label=Profile%20views&color=0e75b6&style=flat" alt="bibekjoshi50" /> </p>
 
