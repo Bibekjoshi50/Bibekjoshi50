@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Bibek Joshi</h1>
 <h3 align="center">A passionate frontend developer from  Nepal</h3>
 
-<[image](https://github.com/Bibekjoshi50/Bibekjoshi50/assets/152896983/309e1ad7-7eb9-4b38-bba4-9aa3f37e803e)
->
+<image>(https://github.com/Bibekjoshi50/Bibekjoshi50/assets/152896983/309e1ad7-7eb9-4b38-bba4-9aa3f37e803e)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekjoshi50&label=Profile%20views&color=0e75b6&style=flat" alt="bibekjoshi50" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bibekjoshi50" target="blank"><img src="https://img.shields.io/twitter/follow/bibekjoshi50?logo=twitter&style=for-the-badge" alt="bibekjoshi50" /></a> </p>
