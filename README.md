@@ -1,4 +1,4 @@
-# 💫 About Me:
+                                                                                     #  💫 About Me:
 - 🔭 I’m currently learning Frontend deveopment <br>- 🌱 I’m currently learning **Html,css ,JS, React and UI UX**<br>- 💬 Ask me about **JavaScript, TypeScript, React, Vue and Angular**<br>- 📫 How to reach me **bebikjoshi118@gmail.com**<br>- 👨‍💻 All of my projects are available at **https://github.com/Bibekjoshi50**<br>- 📝 I regularly write articles on **https://x.com/bibekjoshi50**<br>- 📄 Know about my experiences **https://www.linkedin.com/in/bibekjoshi50**
 
 
