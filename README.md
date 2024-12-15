@@ -1,28 +1,39 @@
-<h1 align="center">Hi 👋, I'm Bibek Joshi</h1>
-<h3 align="center">A future frontend developer and UI UX Designer from Nepal.</h3>
+### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekjoshi50&label=Profile%20views&color=0e75b6&style=flat" alt="bibekjoshi50" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibekjoshi50" alt="bibekjoshi50" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bibekjoshi50" target="blank"><img src="https://img.shields.io/twitter/follow/bibekjoshi50?logo=twitter&style=for-the-badge" alt="bibekjoshi50" /></a> </p>
-
-- 📫 How to reach me **bebikjoshi118@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bibekjoshi50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bibekjoshi50" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/bibekjoshi50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/bibekjoshi50" height="30" width="40" /></a>
-<a href="https://fb.com/bibek.joshi.169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bibek.joshi.169" height="30" width="40" /></a>
-<a href="https://instagram.com/bibekjoshi50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibekjoshi50" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bibekjoshi50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bibekjoshi50" height="30" width="40" /></a>
+ <p align="center">
+  <!-- Typing SVG by Manmohan - https://github.com/manmohanaeir1/readme-typing-svg -->
+  <a href="https://github.com/manmohanaeir1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back-End Developer ;ComputerScience Student ; Learner WEB DEVELOPER; PROGRAMMER%20;  ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibekjoshi50&show_icons=true&locale=en&layout=compact" alt="bibekjoshi50" /></p>
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibekjoshi50&show_icons=true&locale=en" alt="bibekjoshi50" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibekjoshi50&" alt="bibekjoshi50" /></p>
+ 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohanaeir1&theme=gotham&layout=compact"width="47%"/> 
+</p>
+
+<p align="center">
+<a href="https://github.com/manmohanaeir1?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=manmohanaeir1&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@manmohanaeir1's github-readme-stats"/></a>
+<a href="https://github.com/manmohanaeir1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=manmohanaeir1&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
+
+<br/>
+
+
+
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://jharohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=manmohanaeir1&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+<p align="center">
+    <a href="https://github.com/getintorj/getintorj">
+        <img src="https://github-profile-trophy.vercel.app/?username=manmohanaeir1&column=-1&theme=dracula&layout=compact"width="95%"/> 
+</p>
