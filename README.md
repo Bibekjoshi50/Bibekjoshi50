@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Bibekjoshi50/Bibekjoshi50/refs/heads/main/bibek.png.gif)
+![logo](https://github.com/Bibekjoshi50/Bibekjoshi50/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Bibek Joshi</h1>
 <h3 align="center">A Passionate Computer Science Student from Nepal.</h3>
 
