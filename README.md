@@ -50,3 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibekjoshi50&show_icons=true&locale=en" alt="bibekjoshi50" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibekjoshi50&" alt="bibekjoshi50" /></p>
+
+[![An image of @bibekjoshi50's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bibekjoshi50)](https://holopin.io/@bibekjoshi50)
